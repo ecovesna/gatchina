@@ -96,6 +96,9 @@
 * [Как Гатчина стала источником неприятных запахов в Ленобласти — и кто в этом виноват](https://www.rosbalt.ru/news/2022-11-08/kak-gatchina-stala-istochnikom-nepriyatnyh-zapahov-v-lenoblasti-i-kto-v-etom-vinovat-4962544)
 (Росбалт, 8 ноября)
 
+* [Обвал "мусорного Эвереста" под Гатчиной](https://www.youtube.com/watch?v=mQoxesfbLVI)
+  (Youtube, 17 ноября)
+
 ### 2019
 * ▶ [НТВ: о полигоне и технопарке](https://vk.com/im/convo/38037191?entrypoint=list_all&z=video38037191_456239176%2F909035d3c70fd47c4e)
  (НТВ, март 2019)
