@@ -93,6 +93,9 @@
 * [Гатчина задыхается: горожане требуют ввести режим ЧС из-за вони](https://spb.cian.ru/stati-gatchina-zadyhaetsja-gorozhane-trebujut-vvesti-rezhim-chs-iz-za-voni-327489/)
 (ЦИАН, 12 октября)
 
+* [Прокуратура проверяет обстоятельства схода откоса террикона на мусорном полигоне под Гатчиной](https://47channel.ru/event/prokuratura-proveryaet-obstoyatelstva-sxoda-otkosa-terrikona-na-musornom-poligone-pod-gatcinoi)
+  (20 октября)
+
 * [Как Гатчина стала источником неприятных запахов в Ленобласти — и кто в этом виноват](https://www.rosbalt.ru/news/2022-11-08/kak-gatchina-stala-istochnikom-nepriyatnyh-zapahov-v-lenoblasti-i-kto-v-etom-vinovat-4962544)
 (Росбалт, 8 ноября)
 
@@ -114,16 +117,34 @@
 * [Полигон "Новый Свет Эко" в Ленинградской области в 2019 году прекратит прием отходов](https://tass.ru/ekonomika/5272874)
   (ТАСС, 07 июня)
 
+* [В ходе прямой линии с президентом России пожаловались на мусорный полигон «Новый свет» ](https://gatchina47.ru/gatchinalife/6815-v-hode-pryamoy-linii-s-prezidentom-rossii-pozhalovalis-na-musornyy-poligon-novyy-svet.html)
+  (gatchina47, 8 июня)
+
+
 ### 2017
+
+* ▶ [Мусорные небоскребы наращивают высоту. Власти распорядились проверить полигоны. Войну свалке уже объявили жители Гатчины](https://47channel.ru/event/Musornie_neboskrebi_naraschivayut_visotu_Vlasti_rasporyadilis_proverit_poligoni_Vojnu_svalke_uzhe_ob_yavili_zhiteli_Gatchini)
+  (Канал 47, 31 января)
+
 * [Горы мусора на полигоне "Новый Свет-Эко" достигли высоты 24-этажного дома](https://gatchina-news.ru/novosti/gory-musora-na-poligone-novyj-svet-eko-dostigli-vysoty-24-etazhnogo-doma/)
 (gatchina-news.ru, 1 февраля)
+
+* ▶ [Взяли высоту: свалка под Гатчиной может переплюнуть Пизанскую башню. Росприроднадзор разрешил] (https://47channel.ru/event/vzyali_visotu_svalka_pod_Gatchinoj_mozhet_pereplyunut_Pizanskuyu_bashnyu_Rosprirodnadzor_razreshil)
+  (Канал 47, 14 февраля)
 
 * [Разгорающийся скандал вокруг полигона "Новый свет" затмевает даже "Красный Бор". Почему?](https://mayaksbor.ru/news/lenoblast/razgorayushchiysya_skandal_vokrug_poligona_novyy_svet_zatmevaet_dazhe_krasnyy_bor_pochemu/)
  (Маяк, 19 февраля)
 
+* ▶ [Губернатор Александр Дрозденко посетил полигон «Новый свет-Эко» под Гатчиной](https://47channel.ru/event/Gubernator_Aleksandr_Drozdenko_posetil_poligon_Novij_svet_Eko_pod_Gatchinoj)
+  (Канал 47, 18 июля)
+
 ### 2016
-* ▶ [Канал 47: превышение высотности и мощности полигона](https://vk.com/im/convo/38037191?entrypoint=list_all&z=video38037191_456239175%2Fbb3bb95740349210d1) 
- (Канал 47)
+* [Мусорный полигон в Гатчинском районе все-таки оштрафовали](https://47channel.ru/event/Musornij_poligon_v_Gatchinskom_rajone_vse_taki_oshtrafovali)
+  (47channel, 22 августа)
+
+### 2015
+* [Пожар на мусорном полигоне в Гатчинском районе ликвидирован]
+  (https://47channel.ru/video_clip/69872)
 
 ### 2014
 * [Город - свалка. На 5 миллионов жителей - всего 6 полигонов для мусора](https://spb.aif.ru/city/event/1182942)
