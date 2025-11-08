@@ -102,8 +102,11 @@
 * [Гатчина задыхается: горожане требуют ввести режим ЧС из-за вони](https://spb.cian.ru/stati-gatchina-zadyhaetsja-gorozhane-trebujut-vvesti-rezhim-chs-iz-za-voni-327489/)
 (ЦИАН, 12 октября)
 
-* [Под Гатчиной сошла «мусорная лавина»](https://www.ntv.ru/novosti/2728953)
+* ▶ [Под Гатчиной сошла «мусорная лавина»](https://www.ntv.ru/novosti/2728953)
   (НТВ, 20 октября)
+
+* ▶ [Появилось видео схода свалочных масс на полигоне ТБО «Новый свет»](https://78.ru/news/2022-10-20/poyavilos-video-shoda-svalochnih-mass-na-poligone-tbo-novii-svet)
+  (78.ru, 20 октября)
 
 * [Прокуратура проверяет обстоятельства схода откоса террикона на мусорном полигоне под Гатчиной](https://47channel.ru/event/prokuratura-proveryaet-obstoyatelstva-sxoda-otkosa-terrikona-na-musornom-poligone-pod-gatcinoi)
   (Канал 47, 20 октября)
@@ -165,6 +168,9 @@
 ### 2016
 * [Мусорный полигон в Гатчинском районе все-таки оштрафовали](https://47channel.ru/event/Musornij_poligon_v_Gatchinskom_rajone_vse_taki_oshtrafovali)
   (Канал 47, 22 августа)
+
+* [Решение Арбитражного суда города Санкт-Петербурга и Ленинградской области по делу № А56-48923/2016](https://kad.arbitr.ru/Document/Pdf/16399f55-00cf-4fbf-853d-b3469ceb843e/e2283999-e56f-4b3c-b9fc-e905de01dfdf/A56-48923-2016_20160824_Reshenie.pdf?isAddStamp=True)
+  (24 августа)
 
 * ▶ [В Ленобласти пытаются втайне увеличить площадь мусорного полигона «Новый Свет»](https://www.ntv.ru/novosti/1661419)
   (НТВ, 14 сентября)
